@@ -1,7 +1,9 @@
 Atividade 01 da Lista de Funções
+
 Sejam bem-vindos ao projeto.
 
 Enunciado
+
 Faça um programa para imprimir:
     1
     2   2
